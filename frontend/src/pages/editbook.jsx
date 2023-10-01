@@ -16,7 +16,7 @@ const EditBook = () => {
 
   useEffect(() => {
     setLoading(true);
-    axios.get(`http://localhost:5555/books/${id}`)
+    axios.get(`https://holy-ganges.onrender.com/books/${id}`)
     .then((response) => {
         setAuthor(response.data.author);
         setPublishyear(response.data.publishyear)
@@ -37,7 +37,7 @@ const EditBook = () => {
     };
     setLoading(true);
     axios
-      .put(`http://localhost:5555/books/${id}`, data)
+      .put(`https://holy-ganges.onrender.com/${id}`, data)
       .then(() => {
         setLoading(false);
         enqueueSnackbar('Book Edited successfully', { variant: 'success' });
@@ -76,7 +76,7 @@ const EditBook = () => {
           />
         </div>
         <div className='my-4'>
-          <label className='text-xl mr-4 text-gray-500'>Publish Year</label>
+          <label className='text-xl mr-4 text-gray-500'>Date</label>
           <input
             type='number'
             value={publishyear}

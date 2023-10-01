@@ -14,7 +14,7 @@ const BooksTable = ({ books }) => {
             Author
           </th>
           <th className='border border-slate-600 rounded-md max-md:hidden'>
-            Publish Year
+            Date
           </th>
           <th className='border border-slate-600 rounded-md'>Operations</th>
         </tr>

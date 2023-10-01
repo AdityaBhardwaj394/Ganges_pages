@@ -12,7 +12,7 @@ const ShowBook = () => {
   useEffect(() => {
     setLoading(true);
     axios
-      .get(`http://localhost:5555/books/${id}`)
+      .get(`https://holy-ganges.onrender.com/books/${id}`)
       .then((response) => {
         setBook(response.data);
         setLoading(false);
@@ -44,7 +44,7 @@ const ShowBook = () => {
             <span>{book.author}</span>
           </div>
           <div className='my-4'>
-            <span className='text-xl mr-4 text-gray-500'>Publish Year</span>
+            <span className='text-xl mr-4 text-gray-500'>Date</span>
             <span>{book.publishyear}</span>
           </div>
           <div className='my-4'>
