@@ -1,10 +1,11 @@
-you can access website live at : https://652a975e1393ec30976b2c0a--zesty-syrniki-9df1ed.netlify.app/
+you can access website live at : https://652ae742e6cb02690b9143a8--cerulean-gnome-a9601b.netlify.app/
 # Ganges_pages
-![image](https://github.com/AdityaBhardwaj394/Ganges_pages/assets/103112612/9acf5647-c36a-4ebf-9807-e84f80fc0875)
+![image](https://github.com/AdityaBhardwaj394/Ganges_pages/assets/103112612/d3e6ed42-ad2d-4227-8265-05a3623b7c60)
+![image](https://github.com/AdityaBhardwaj394/Ganges_pages/assets/103112612/1fbed3a2-65ef-4531-9405-1eacb397ed27)
+![image](https://github.com/AdityaBhardwaj394/Ganges_pages/assets/103112612/aed5bb4d-277a-4008-abfb-b954c85efaa9)
+![image](https://github.com/AdityaBhardwaj394/Ganges_pages/assets/103112612/e9d92f5e-4392-4ee7-990e-1e5a024bcaae)
 
-![image](https://github.com/AdityaBhardwaj394/Ganges_pages/assets/103112612/b6131b53-2bf4-45e5-98b0-7d8aa2aa174a)
-![image](https://github.com/AdityaBhardwaj394/Ganges_pages/assets/103112612/4206f4e6-5cfc-4bed-bfc2-7acb182fde44)
-![image](https://github.com/AdityaBhardwaj394/Ganges_pages/assets/103112612/a063a548-1303-4a65-8ca2-43e22c99bd46)
+
 
 
 
