@@ -26,7 +26,7 @@ const ShowBook = () => {
   return (
     <div className='p-4'>
       <BackButton />
-      <h1 className='text-3xl my-4'>Show Book</h1>
+      <h1 className='text-3xl my-4'>Show Note</h1>
       {loading ? (
         <Spinner />
       ) : (
@@ -40,7 +40,7 @@ const ShowBook = () => {
             <span>{book.title}</span>
           </div>
           <div className='my-4'>
-            <span className='text-xl mr-4 text-gray-500'>Author</span>
+            <span className='text-xl mr-4 text-gray-500'>Description</span>
             <span>{book.author}</span>
           </div>
           <div className='my-4'>

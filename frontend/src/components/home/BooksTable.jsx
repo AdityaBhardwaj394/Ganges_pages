@@ -11,7 +11,7 @@ const BooksTable = ({ books }) => {
           <th className='border border-slate-600 rounded-md'>No</th>
           <th className='border border-slate-600 rounded-md'>Title</th>
           <th className='border border-slate-600 rounded-md max-md:hidden'>
-            Author
+            Description
           </th>
           <th className='border border-slate-600 rounded-md max-md:hidden'>
             Date
